@@ -2,7 +2,7 @@
 ## Image
 ![Croduino adapter image]
 (https://d3s5r33r268y59.cloudfront.net/33091/products/thumbs/2015-08-06T21:10:54.838Z-DSC_6146.jpg.2560x2560_q85.jpg)
-[Croduino to Arduino adapter(100015)] (http://e-radionica.com/en/croduino-to-arduino-adapter.html)
+[Croduino to Arduino adapter(100015)] (https://e-radionica.com/en/croduino-to-arduino-adapter.html)
 
 ## Description and details
 If you need to use Arduino shields with the Croduino board, this shield is all you need. Simply plug 'n' play. No need for soldering, connecting jumper wires or using a breadboard. Just directly snap Arduino shield in the adapter and the adapter in Croduino - now everything is connected and ready to use!
@@ -13,7 +13,7 @@ Files have been arranged into folders for navigating between different versions 
 Tip: layer 200 shows top silkscreen and layer 208 should be bottom silkscreen. tParts and bParts is not used.
 
 ## Docs
-- [CAA product page] (http://e-radionica.com/en/croduino-to-arduino-adapter.html)
+- [CAA product page] (https://e-radionica.com/en/croduino-to-arduino-adapter.html)
 
 ## Board versions
 - v1.0 - inital version
